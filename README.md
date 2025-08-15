@@ -1,6 +1,6 @@
 # 🇮🇩 Latihan Go
 
-##FizzBuzz & Pengecek Palindrom
+## FizzBuzz & Pengecek Palindrom
 
 Repositori ini berisi solusi untuk dua tantangan pemrograman klasik yang diimplementasikan menggunakan bahasa Go. Proyek ini bertujuan untuk melatih logika dasar, perulangan, kondisional, dan manipulasi string.
 
